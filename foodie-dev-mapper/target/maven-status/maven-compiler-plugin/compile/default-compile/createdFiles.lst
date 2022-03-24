@@ -1,0 +1,13 @@
+com\wei\mapper\ItemsMapper.class
+com\wei\my\mapper\MyMapper.class
+com\wei\mapper\CategoryMapper.class
+com\wei\mapper\ItemsSpecMapper.class
+com\wei\mapper\UsersMapper.class
+com\wei\mapper\OrderStatusMapper.class
+com\wei\mapper\ItemsImgMapper.class
+com\wei\mapper\UserAddressMapper.class
+com\wei\mapper\CarouselMapper.class
+com\wei\mapper\OrderItemsMapper.class
+com\wei\mapper\ItemsCommentsMapper.class
+com\wei\mapper\OrdersMapper.class
+com\wei\mapper\ItemsParamMapper.class

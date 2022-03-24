@@ -1,0 +1,13 @@
+com\wei\pojo\Carousel.class
+com\wei\pojo\Category.class
+com\wei\pojo\ItemsSpec.class
+com\wei\pojo\ItemsImg.class
+com\wei\pojo\Orders.class
+com\wei\pojo\Items.class
+com\wei\pojo\Users.class
+com\wei\pojo\bo\UserBO.class
+com\wei\pojo\OrderStatus.class
+com\wei\pojo\ItemsParam.class
+com\wei\pojo\OrderItems.class
+com\wei\pojo\UserAddress.class
+com\wei\pojo\ItemsComments.class
