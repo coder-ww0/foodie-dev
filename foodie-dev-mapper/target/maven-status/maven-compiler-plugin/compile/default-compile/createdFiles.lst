@@ -1,4 +1,5 @@
 com\wei\mapper\ItemsMapper.class
+com\wei\mapper\CategoryMapperCustom.class
 com\wei\my\mapper\MyMapper.class
 com\wei\mapper\CategoryMapper.class
 com\wei\mapper\ItemsSpecMapper.class
@@ -11,3 +12,4 @@ com\wei\mapper\OrderItemsMapper.class
 com\wei\mapper\ItemsCommentsMapper.class
 com\wei\mapper\OrdersMapper.class
 com\wei\mapper\ItemsParamMapper.class
+com\wei\mapper\ItemsMapperCustom.class

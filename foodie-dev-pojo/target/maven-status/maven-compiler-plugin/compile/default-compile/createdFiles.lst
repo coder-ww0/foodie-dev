@@ -1,9 +1,15 @@
 com\wei\pojo\Carousel.class
 com\wei\pojo\Category.class
+com\wei\pojo\vo\ItemCommentVO.class
 com\wei\pojo\ItemsSpec.class
+com\wei\pojo\vo\NewItemsVO.class
 com\wei\pojo\ItemsImg.class
 com\wei\pojo\Orders.class
+com\wei\pojo\vo\SimpleItemVO.class
+com\wei\pojo\vo\CommentLevelCountsVO.class
+com\wei\pojo\vo\SubCategoryVO.class
 com\wei\pojo\Items.class
+com\wei\pojo\vo\CategoryVO.class
 com\wei\pojo\Users.class
 com\wei\pojo\bo\UserBO.class
 com\wei\pojo\OrderStatus.class

@@ -1,2 +1,6 @@
-com\wei\service\impl\UserServiceImpl.class
 com\wei\service\UserService.class
+com\wei\service\CategoryService.class
+com\wei\service\impl\UserServiceImpl.class
+com\wei\service\impl\CarouselServiceImpl.class
+com\wei\service\impl\CategoryServiceImpl.class
+com\wei\service\CarouselService.class

@@ -1,9 +1,14 @@
 E:\javaVideo\newVideo2022\foodie-dev\foodie-dev-pojo\src\main\java\com\wei\pojo\ItemsSpec.java
+E:\javaVideo\newVideo2022\foodie-dev\foodie-dev-pojo\src\main\java\com\wei\pojo\vo\CommentLevelCountsVO.java
+E:\javaVideo\newVideo2022\foodie-dev\foodie-dev-pojo\src\main\java\com\wei\pojo\vo\ItemCommentVO.java
 E:\javaVideo\newVideo2022\foodie-dev\foodie-dev-pojo\src\main\java\com\wei\pojo\bo\UserBO.java
+E:\javaVideo\newVideo2022\foodie-dev\foodie-dev-pojo\src\main\java\com\wei\pojo\vo\SimpleItemVO.java
 E:\javaVideo\newVideo2022\foodie-dev\foodie-dev-pojo\src\main\java\com\wei\pojo\ItemsComments.java
+E:\javaVideo\newVideo2022\foodie-dev\foodie-dev-pojo\src\main\java\com\wei\pojo\vo\NewItemsVO.java
 E:\javaVideo\newVideo2022\foodie-dev\foodie-dev-pojo\src\main\java\com\wei\pojo\Carousel.java
 E:\javaVideo\newVideo2022\foodie-dev\foodie-dev-pojo\src\main\java\com\wei\pojo\Items.java
 E:\javaVideo\newVideo2022\foodie-dev\foodie-dev-pojo\src\main\java\com\wei\pojo\OrderStatus.java
+E:\javaVideo\newVideo2022\foodie-dev\foodie-dev-pojo\src\main\java\com\wei\pojo\vo\ItemInfoVO.java
 E:\javaVideo\newVideo2022\foodie-dev\foodie-dev-pojo\src\main\java\com\wei\pojo\ItemsImg.java
 E:\javaVideo\newVideo2022\foodie-dev\foodie-dev-pojo\src\main\java\com\wei\pojo\OrderItems.java
 E:\javaVideo\newVideo2022\foodie-dev\foodie-dev-pojo\src\main\java\com\wei\pojo\UserAddress.java
@@ -11,3 +16,5 @@ E:\javaVideo\newVideo2022\foodie-dev\foodie-dev-pojo\src\main\java\com\wei\pojo\
 E:\javaVideo\newVideo2022\foodie-dev\foodie-dev-pojo\src\main\java\com\wei\pojo\ItemsParam.java
 E:\javaVideo\newVideo2022\foodie-dev\foodie-dev-pojo\src\main\java\com\wei\pojo\Orders.java
 E:\javaVideo\newVideo2022\foodie-dev\foodie-dev-pojo\src\main\java\com\wei\pojo\Users.java
+E:\javaVideo\newVideo2022\foodie-dev\foodie-dev-pojo\src\main\java\com\wei\pojo\vo\CategoryVO.java
+E:\javaVideo\newVideo2022\foodie-dev\foodie-dev-pojo\src\main\java\com\wei\pojo\vo\SubCategoryVO.java

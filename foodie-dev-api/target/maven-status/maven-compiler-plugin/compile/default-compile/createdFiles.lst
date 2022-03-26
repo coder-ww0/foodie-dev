@@ -1,4 +1,6 @@
 com\wei\controller\PassportController.class
 com\wei\controller\HelloController.class
 com\wei\aspect\ServiceLogAspect.class
+com\wei\controller\BaseController.class
+com\wei\controller\IndexController.class
 com\wei\Application.class

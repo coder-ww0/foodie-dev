@@ -41,6 +41,10 @@ mybatis:
   configuration:
     log-impl: org.apache.ibatis.logging.stdout.StdOutImpl # 控制台输出sql日志
 
+# 分页插件配置
+pagehelper:
+  helperDialect: mysql
+  supportMethodsArguments: true
 ############################################################
 #
 # mybatis mapper 配置
